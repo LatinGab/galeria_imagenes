@@ -1,0 +1,53 @@
+.navbar {
+  margin-bottom: 0px;
+}
+.jumbotron {
+  background: url(images/bg2.jpg);
+  background-size: cover;
+  text-align: center;
+  margin-top: 0px;
+}
+.jumbotron h1 {
+  color: white;
+  font-size: 40px;
+}
+.jumbotron p {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: white;
+  font-size: 1.2em;
+}
+
+.thumbnail {
+  border: solid 8px #d7d7da;
+  border-radius: 20px;
+  padding: 0px;
+}
+.img-responsive {
+  border-top-left-radius:10px;
+  border-top-right-radius: 10px;
+}
+.centrar {
+text-align: center;
+}
+.titulo_foto {
+  font-size: 20px;
+}
+.parrafo_imagen {
+ padding: 10px;
+ font-size: 12px;
+}
+
+.btn-default {
+  text-align: center;
+  float: none;
+  margin-bottom: 20px;
+}
+
+.panel-footer{
+  text-align: center;
+}
+
+.panel-body {
+  text-align: center;
+}
